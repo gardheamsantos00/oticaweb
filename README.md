@@ -10,6 +10,6 @@ Sistema de gerenciamento de clientes - Este módulo somente pode ser operado por
 Sistemas de gerenciamento de entrada e saída - O usuário deverá cadastrar os produtos a venda do estabelecimento. No momento da vendo ele poderá selecionar um ou mais produtos cadastrados e o sistema deve apresentar a soma dos preços dos produtos;
 Sistemas de encomenda de óculos - Aqui o usuário preenche com os dados do cliente a ficha médica para a encomenda. Que será armazenada e será ligada com o cadastro do cliente.
 
-##Screm Shoot
+## Screenshots
 
-![Screenshot](public/img/WhatsApp Image 2018-12-04 at 05.56.02.jpeg)
+<img src="public/img/01.jpeg" alt="My cool logo"/>
