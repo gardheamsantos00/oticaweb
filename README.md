@@ -12,4 +12,29 @@ Sistemas de encomenda de óculos - Aqui o usuário preenche com os dados do clie
 
 ## Screenshots
 
+## 01
+
 <img src="public/img/01.jpeg" alt="My cool logo"/>
+
+## 02
+
+<img src="public/img/02.jpeg" alt="My cool logo"/>
+
+## 03 
+
+<img src="public/img/03.jpeg" alt="My cool logo"/>
+
+## 04
+
+<img src="public/img/04.jpeg" alt="My cool logo"/>
+
+## 05 
+
+<img src="public/img/05.jpeg" alt="My cool logo"/>
+
+## 06 
+<img src="public/img/06.jpeg" alt="My cool logo"/>
+
+## 07 
+
+<img src="public/img/07.jpeg" alt="My cool logo"/>
