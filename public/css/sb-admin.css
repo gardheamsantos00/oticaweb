@@ -54,7 +54,7 @@ body.fixed-nav.sidebar-toggled #content-wrapper {
   height: 50px;
   text-align: center;
   color: #fff;
-  background: rgba(52, 58, 64, 0.5);
+  background: rgba(13, 15, 24, 0.9);
   line-height: 46px;
 }
 
@@ -91,7 +91,7 @@ body.fixed-nav.sidebar-toggled #content-wrapper {
 }
 
 .navbar-nav .nav-item.active .nav-link {
-  color: #fff;
+  color: rgb(131, 229, 241);
 }
 
 .navbar-nav .nav-item.dropdown .dropdown-toggle::after {
@@ -133,7 +133,7 @@ body.fixed-nav.sidebar-toggled #content-wrapper {
 
 .sidebar {
   width: 90px !important;
-  background-color: #212529;
+  background-color: #130f0f;
   min-height: calc(100vh - 56px);
 }
 
@@ -170,11 +170,11 @@ body.fixed-nav.sidebar-toggled #content-wrapper {
 }
 
 .sidebar .nav-item .nav-link {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(131, 229, 241);
 }
 
 .sidebar .nav-item .nav-link:active, .sidebar .nav-item .nav-link:focus, .sidebar .nav-item .nav-link:hover {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(14, 231, 43, 0.75);
 }
 
 .sidebar.toggled {
@@ -351,7 +351,7 @@ footer.sticky-footer {
   bottom: 0;
   width: calc(100% - 90px);
   height: 80px;
-  background-color: #e9ecef;
+  background-color: #f1f1f1;
 }
 
 footer.sticky-footer .copyright {
